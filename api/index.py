@@ -5,6 +5,13 @@ import xml.etree.ElementTree as ET
 import sqlite3
 
 app = Flask(__name__)
+@app.route('/')
+def home() :
+    return "HELLO, THIS IS EXCEL2XML"
+
+@app.route('/about')
+def about() :
+    return "Hello, /about test routing"
 
 def xml_to_excel(xml_content, excel_path):
     tree = ET.ElementTree(ET.fromstring(xml_content))
