@@ -1,3 +1,8 @@
+## contact me at:
+### <b>Email:</b> khaledsfax03@gmail.com
+### <b>LinkedIn:</b> <a href="https://linkedin.com/in/khaledkammoun" target="_blank">linkedin.com/in/khaledkammoun</a>
+### <b>GitHub:</b> <a href="https://github.com/KhaledKammoun" target="_blank">github.com/KhaledKammoun</a>
+
 # Excel2XML
 
 ### <b>Excel2XML</b> is a powerful and user-friendly tool designed to convert XML files to Excel and vice versa. This tool is particularly useful for Archicad users, allowing seamless integration with the Classification Manager.
