@@ -172,9 +172,9 @@ graph TD;
 
 #### <b>Email:</b> khaledsfax03@gmail.com
 
-#### <b>LinkedIn:/b> linkedin.com/in/khaledkammoun
+#### <b>LinkedIn:</b> linkedin.com/in/khaledkammoun
 
-#### <b>GitHub:/b> github.com/KhaledKammoun
+#### <b>GitHub:</b> github.com/KhaledKammoun
 
 # COPYRIGHT
 
