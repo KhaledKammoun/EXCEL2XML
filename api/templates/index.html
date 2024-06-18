@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Excel2XML</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+
+      h2 {
+        margin-top: 40px;
+        margin-bottom: 20px;
+      }
+
+      form {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        width: 100%;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 10px;
+        font-weight: bold;
+      }
+
+      input[type="file"],
+      input[type="text"],
+      button {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+
+      button {
+        background-color: #007bff;
+        color: #fff;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to Excel2XML Converter</h1>
+    <!-- Convert Excel to XML Interface -->
+    <h2>Convert Excel to XML</h2>
+    <form
+      action="{{ url_for('convert_excel_to_xml') }}"
+      method="POST"
+      enctype="multipart/form-data"
+    >
+      <label for="input_file">Input Excel File:</label><br />
+      <input
+        type="file"
+        id="input_file"
+        name="input_file"
+        accept=".xlsx, .xls"
+      /><br /><br />
+
+      <label for="output_folder">Output Folder:</label><br />
+      <input type="text" id="output_folder" name="output_folder" /><br /><br />
+
+      <label for="output_file_name">XML File Name:</label><br />
+      <input
+        type="text"
+        id="output_file_name"
+        name="output_file_name"
+      /><br /><br />
+
+      <button type="submit">Convert</button>
+    </form>
+
+    <br /><br />
+
+    <!-- Convert XML to Excel Interface -->
+    <h2>Convert XML to Excel</h2>
+    <form action="{{ url_for('convert_xml_to_excel') }}" method="POST">
+      <label for="input_file">Input XML File:</label>
+      <input type="file" id="input_file" name="input_file" accept=".xml" />
+
+      <label for="output_folder">Output Folder:</label>
+      <input type="text" id="output_folder" name="output_folder" />
+
+      <label for="output_file_name">Excel File Name:</label>
+      <input type="text" id="output_file_name" name="output_file_name" />
+
+      <button type="submit">Convert</button>
+    </form>
+  </body>
+</html>

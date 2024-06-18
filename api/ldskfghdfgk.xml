@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+  <Classification>
+    <System>
+      <Name>Archicad Classification</Name>
+      <EditionVersion>v 2.0</EditionVersion>
+      <EditionDate>
+        <Year>2019</Year>
+        <Month>3</Month>
+        <Day>15</Day>
+      </EditionDate>
+      <Description/>
+      <Source>www.graphisoft.com</Source>
+      <Items>
+        <Item>
+          <ID>00|00|00</ID>
+          <Name>CHANTIER</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>00|01|00</ID>
+              <Name>Installations</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>00|02|00</ID>
+              <Name>Equipements</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>00|03|00</ID>
+              <Name>Sécurité</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>00|04|00</ID>
+              <Name>Matériel informatique et caméras</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>01|00|00</ID>
+          <Name>DÉMOLITION</Name>
+          <Description>qvwcxg dgqd fgd</Description>
+          <Children>
+            <Item>
+              <ID>01|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|01|00</ID>
+              <Name>Démolition mur porteur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|02|00</ID>
+              <Name>Démolition mur non porteur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|03|00</ID>
+              <Name>Décapage chape et revêtements</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|04|00</ID>
+              <Name>Démolition strucutre</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|05|00</ID>
+              <Name>Décapage enduit</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|06|00</ID>
+              <Name>Décapage revêtement</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|07|00</ID>
+              <Name>Récupération Menuiserie</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|08|00</ID>
+              <Name>Démolition menuiserie</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>01|09|00</ID>
+              <Name>Récupération Lustres</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>02|00|00</ID>
+          <Name>TERRASSEMENT</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>02|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|01|00</ID>
+              <Name>Déblais:( préparation de la plateforme du projet)</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|02|00</ID>
+              <Name>Remblais séléctionnés:</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|03|00</ID>
+              <Name>Fouilles en puits( sous les fondations du bâtiment)</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|04|00</ID>
+              <Name>Fouilles en rigole</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|05|00</ID>
+              <Name>Tout venant de 0/20</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|06|00</ID>
+              <Name>Article 06</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|07|00</ID>
+              <Name>Article 07</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|08|00</ID>
+              <Name>Article 08</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|09|00</ID>
+              <Name>Article 09</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|11|00</ID>
+              <Name>Article 11</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>02|12|00</ID>
+              <Name>Article 12</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>03|00|00</ID>
+          <Name>FONDATIONS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>03|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|01|00</ID>
+              <Name>Gros béton de fondation</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|02|00</ID>
+              <Name>Béton de propreté</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|03|00</ID>
+              <Name>Béton banché</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|04|00</ID>
+              <Name>Béton armé en fondation</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|05|00</ID>
+              <Name>Voile</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|06|00</ID>
+              <Name>Chape armée accrochée</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|07|00</ID>
+              <Name>Film Polyane</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|08|00</ID>
+              <Name>Sable de concassage</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|09|00</ID>
+              <Name>Article 09</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|11|00</ID>
+              <Name>Article 11</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|12|00</ID>
+              <Name>Article 12</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|13|00</ID>
+              <Name>Article 13</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|14|00</ID>
+              <Name>Article 14</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|15|00</ID>
+              <Name>Article 15</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>03|16|00</ID>
+              <Name>Article 16</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>04|00|00</ID>
+          <Name>STRUCTURE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>04|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|01|00</ID>
+              <Name>gros béton</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|02|00</ID>
+              <Name>Béton de propreté</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|03|00</ID>
+              <Name>Béton banché</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|04|00</ID>
+              <Name>béton armé en fondation</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|05|00</ID>
+              <Name>Béton armé en élévation</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|06|00</ID>
+              <Name>Chape armée de 15 cm</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|07|00</ID>
+              <Name>Coffrage perdu sous chape et longrines de 15 cm en brique de 12 trous</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|08|00</ID>
+              <Name>Chape armée de 13 cm pour cours et aménagement</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|09|00</ID>
+              <Name>Escalier en béton</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>04|10|00</ID>
+              <Name>Planchers</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>04|10|01</ID>
+                  <Name>Plancher type  rector 16+5</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>04|10|02</ID>
+                  <Name>Plancher type  rector 20+5</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>04|10|03</ID>
+                  <Name>Plancher type  rector 25+5</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>04|10|04</ID>
+                  <Name>Planchers en dalle pleine</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>04|11|00</ID>
+              <Name>Revers d’eau en béton armé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>05|00|00</ID>
+          <Name>MAÇONNERIE ET BRIQUETAGE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>05|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>05|01|00</ID>
+              <Name>Mur en pierre</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>05|01|01</ID>
+                  <Name>Mur en pierre de 50</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|01|02</ID>
+                  <Name>Mur en pierre de 45</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|01|03</ID>
+                  <Name>Mur en pierre de 40</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>05|02|00</ID>
+              <Name>Double cloison</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>05|02|01</ID>
+                  <Name>Double cloison de 30</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|02|02</ID>
+                  <Name>Double cloison de 30 à 35</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|02|03</ID>
+                  <Name>Double cloison de 35</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|02|04</ID>
+                  <Name>Double cloison plus de 35</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|02|05</ID>
+                  <Name>Double cloison de 40</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|02|06</ID>
+                  <Name>Double cloison plus de 40</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>05|03|00</ID>
+              <Name>Cloisons</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>05|03|01</ID>
+                  <Name>Cloison de 10</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|03|02</ID>
+                  <Name>Cloison de 15</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|03|03</ID>
+                  <Name>Cloison de 20</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|03|04</ID>
+                  <Name>Cloison de 25</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>05|03|05</ID>
+                  <Name>Cloison de 30</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>05|04|00</ID>
+              <Name>Mur de clôture en brique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>05|80|00</ID>
+              <Name>Habillage en brique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>06|00|00</ID>
+          <Name>PLÂTRERIE ET PARTITIONS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>06|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>06|01|00</ID>
+              <Name>Partition</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>06|01|01</ID>
+                  <Name>Partition en placco-plâtre epaisseur 07</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|01|02</ID>
+                  <Name>Partition en placco-plâtre epaisseur 10</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|01|03</ID>
+                  <Name>Plaque de plâtre BA-13</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|01|04</ID>
+                  <Name>Plaque de plâtre BA-13 hydrofuge</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>06|02|00</ID>
+              <Name>Faux plafond modulaire</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>06|03|00</ID>
+              <Name>Faux plafond en plâtre traditionnel</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>06|03|01</ID>
+                  <Name>Faux plafond lisse en plâtre traditionnel</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|03|02</ID>
+                  <Name>Joint creux</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|03|03</ID>
+                  <Name>Cache rideau</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|03|04</ID>
+                  <Name>Cache LED</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|03|05</ID>
+                  <Name>bande en saillie</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|03|06</ID>
+                  <Name>Gorge</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>06|04|00</ID>
+              <Name>Faux-plafond en placco-plâtre</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>06|04|01</ID>
+                  <Name>Faux plafond lisse en placco-plâtre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|04|02</ID>
+                  <Name>Joint creux</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|04|03</ID>
+                  <Name>Cache rideau</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|04|04</ID>
+                  <Name>Cache LED</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|04|05</ID>
+                  <Name>bande en saillie</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>06|04|06</ID>
+                  <Name>Gorge</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>06|05|00</ID>
+              <Name>Faux plafond en plâtre traditionnel légèrement décoré</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>06|06|00</ID>
+              <Name>Faux plafond en placco-plâtre légèrement décoré</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>07|00|00</ID>
+          <Name>ENDUITS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>07|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>07|01|00</ID>
+              <Name>Enduit extérieur</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>07|01|01</ID>
+                  <Name>Enduit ciment extérieur</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|01|02</ID>
+                  <Name>Enduit ciment extérieur grillagé</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|01|03</ID>
+                  <Name>Enduit extérieur en monocouche</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>07|02|00</ID>
+              <Name>Enduit intérieur</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>07|02|01</ID>
+                  <Name>Enduit ciment intérieur</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|02|02</ID>
+                  <Name>Enduit ciment intérieur grillagé</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>07|03|00</ID>
+              <Name>Enduits sous plafonds</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>07|03|01</ID>
+                  <Name>Enduit ciment sous plafond</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|03|02</ID>
+                  <Name>Enduit ciment grillagé sous plafond</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|03|03</ID>
+                  <Name>Enduit ciment en gobetis sous plafonds</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>07|04|00</ID>
+              <Name>Enduit de cuvelage</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>07|04|01</ID>
+                  <Name>Enduit de cuvelage Horizontale</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>07|04|02</ID>
+                  <Name>Enduit de cuvelage Verticale</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>07|05|00</ID>
+              <Name>Enduit ciment en gobetis</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>07|06|00</ID>
+              <Name>Enduit intérieur en plâtre projetée</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>07|07|00</ID>
+              <Name>Enduit monocouche extérieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>07|08|00</ID>
+              <Name>Enduit de chaux</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>08|00|00</ID>
+          <Name>REVÊTEMENTS ET FINITIONS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>08|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>08|01|00</ID>
+              <Name>Chapes et résine</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|01|01</ID>
+                  <Name>Chape lissée a l'hélicoptère</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|01|02</ID>
+                  <Name>Revêtement auto-lissant de protection à base de résine époxy</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|01|03</ID>
+                  <Name>Châpe en Béton coloré</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|02|00</ID>
+              <Name>Carrelage</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|02|01</ID>
+                  <Name>Carrelage marbré 25*25</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|02|02</ID>
+                  <Name>Carrelage mosaïque 25*25</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|02|03</ID>
+                  <Name>Plinthe vernisée de 7,5 cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|03|00</ID>
+              <Name>Grés à la masse</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|03|01</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|03|02</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|03|03</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|04|00</ID>
+              <Name>Grés dans la masse</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>08|05|00</ID>
+              <Name>Grès dans la masse antidérapant</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>08|06|00</ID>
+              <Name>Carreaux de faïence</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|06|01</ID>
+                  <Name>Carreaux de faïence pour sanitaires</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|02</ID>
+                  <Name>Carreaux de faïence pour cuisines</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|03</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|04</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|05</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|06</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|07</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|08</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|09</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|10</ID>
+                  <Name/>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|06|90</ID>
+                  <Name>Carreaux de faïence pour paillasse</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|07|00</ID>
+              <Name>Revêtement en marbre</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|07|01</ID>
+                  <Name>Dallettes en marbre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|07|11</ID>
+                  <Name>Marbre coloré de 2cm pour façade d'ascenseur</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|07|12</ID>
+                  <Name>Marbre pour couverture d'acrotère</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|07|13</ID>
+                  <Name>Plinthe en Marbre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|07|14</ID>
+                  <Name>Plinthe crémaillère pour escaliers en marbre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|07|16</ID>
+                  <Name>Marbre strié pour rampe</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|08|00</ID>
+              <Name>Marbre de 2cm</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|08|01</ID>
+                  <Name>Marbre de 2cm pour appui de fenêtre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|08|02</ID>
+                  <Name>Marbre de 2cm pour sifflet de porte</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|08|03</ID>
+                  <Name>Marbre de 2cm pour contre marche d'escalier</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|08|04</ID>
+                  <Name>Marbre de 2cm pour gardecorps</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|09|00</ID>
+              <Name>Marbre de 3cm</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|09|01</ID>
+                  <Name>Marbre de 3cm pour seuil de porte</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|09|02</ID>
+                  <Name>Marbre de 3cm pour marche d'escalier</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|09|03</ID>
+                  <Name>Marbre de 3cm pour Plan de travail de cuisne</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|10|00</ID>
+              <Name>Granite</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>08|11|00</ID>
+              <Name>Parquet</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|11|01</ID>
+                  <Name>Parquet en bois massif</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|11|02</ID>
+                  <Name>Parquet en bois stratifié</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|12|00</ID>
+              <Name>Moquette</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|12|01</ID>
+                  <Name>Moquette en fibre</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|12|02</ID>
+                  <Name>Moquette en PVC</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|12|03</ID>
+                  <Name>Moquette antistatique en PVC</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|13|00</ID>
+              <Name>Pavage et autobloquant</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|13|01</ID>
+                  <Name>Pavage autobloquant</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|13|02</ID>
+                  <Name>Pavage extérieur en dallettes en béton</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|14|00</ID>
+              <Name>Lames de terrasse</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|14|01</ID>
+                  <Name>Structure en lombourdes</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|14|11</ID>
+                  <Name>Lames de terrasses en bois autoclavé de 13 cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|14|12</ID>
+                  <Name>Lames de terrasses en bois autoclavé de 15 cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|15|00</ID>
+              <Name>Décochoc</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|15|01</ID>
+                  <Name>Décochoc en PVC</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|16|00</ID>
+              <Name>Brique de façade</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|16|01</ID>
+                  <Name>Brique - Appareillage courant</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|17|00</ID>
+              <Name>Pierre décorative</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|17|01</ID>
+                  <Name>Pierre éclatée</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>08|17|02</ID>
+                  <Name>Pierre taillée</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|18|00</ID>
+              <Name>Tuiles</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|18|01</ID>
+                  <Name>Tuile en terre-cuite</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|19|00</ID>
+              <Name>Tôles</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|19|01</ID>
+                  <Name>Bac acier</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|20|00</ID>
+              <Name>Allucobond</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|20|01</ID>
+                  <Name>Allucobond</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>08|21|00</ID>
+              <Name>Bardage en bois</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>08|21|01</ID>
+                  <Name>Bardage en bois massif</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>09|00|00</ID>
+          <Name>ÉTANCHÉITÉ ET ISOLATION</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>09|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|01|00</ID>
+              <Name>Formes de pente</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>09|01|01</ID>
+                  <Name>Formes de pente sur terrasse en béton léger</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|01|02</ID>
+                  <Name>Formes de pente sur terrasse en sable</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>09|02|00</ID>
+              <Name>Étanchéité souple SP 4.4</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>09|02|01</ID>
+                  <Name>Étanchéité monocouche en SP4.4</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|02</ID>
+                  <Name>Relevé d'étanchéité monocouche en SP4.4</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|03</ID>
+                  <Name>Étanchéité monocouche type granulée en SP4.4 autoprotégé sur terrasse</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|04</ID>
+                  <Name>Relevé d'étanchéité monocouche type granulée en SP4.4 autoprotégé sur terrasse</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|05</ID>
+                  <Name>Étanchéité monocouche en SP4.4 sous protection lourde</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|06</ID>
+                  <Name>Relevé d'étanchéité monocouche en SP4.4 sous protection lourde</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|07</ID>
+                  <Name>Étanchéité monocouche en SP4.4 y compris protection en venis</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|08</ID>
+                  <Name>Relevé d'étanchéité monocouche en SP4.4 y compris protection en venis</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|02|09</ID>
+                  <Name>Protection en vernis en aluminium</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>09|03|00</ID>
+              <Name>Étanchéité souple SP 2.2</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>09|03|01</ID>
+                  <Name>Étanchéité monocouche en SP2.2 pour locaux humides</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>09|03|02</ID>
+                  <Name>Etanchéité liquide sous Terre végetale</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>09|04|00</ID>
+              <Name>Etanchéité liquide en bitume</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|20|00</ID>
+              <Name>Laine de roche</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|40|00</ID>
+              <Name>Film polyane</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|50|00</ID>
+              <Name>Couche de drainage</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|51|00</ID>
+              <Name>Couche Filtrante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|61|00</ID>
+              <Name>Chanvre</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|62|00</ID>
+              <Name>Fibres de bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|63|00</ID>
+              <Name>Laine de roche</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|64|00</ID>
+              <Name>Laine de verre</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|65|00</ID>
+              <Name>Mousse souple</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|66|00</ID>
+              <Name>Panneaux sandwich</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|67|00</ID>
+              <Name>Polystyrène expansé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|68|00</ID>
+              <Name>Polystyrène extrudé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|69|00</ID>
+              <Name>Polyuréthane extérieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|70|00</ID>
+              <Name>Polyuréthane intérieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>09|71|00</ID>
+              <Name>Rupteur thermique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>10|00|00</ID>
+          <Name>OUVRAGES DIVERS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>10|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>10|01|00</ID>
+              <Name>Ouvrages en béton</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>10|01|01</ID>
+                  <Name>Appuis de fenêtre en béton</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|01|02</ID>
+                  <Name>Lineau de fenêtre en béton</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|01|03</ID>
+                  <Name>Appuis en béton pour habillages en brique</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|01|04</ID>
+                  <Name>Tête de souche de gaine</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|01|05</ID>
+                  <Name>Banquette pour vestiaires</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>10|02|00</ID>
+              <Name>Paillasses et remplissage</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>10|02|01</ID>
+                  <Name>Dallette en béton armé pour vasque</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|02|02</ID>
+                  <Name>Forme de marche en beton banché</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|02|03</ID>
+                  <Name>Fond de rampe pour handicapés</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|02|04</ID>
+                  <Name>Fond de placards</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|02|05</ID>
+                  <Name>Estrades pour tout types de salles</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>10|03|00</ID>
+              <Name>Couvre joints</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>10|03|01</ID>
+                  <Name>Couvre Joint de dilatation sous carrelage</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|03|02</ID>
+                  <Name>Couvre Joint de dilatation sous carrelage WATER STOP</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|03|03</ID>
+                  <Name>Couvre-joint de dilatation extérieur en aluminium</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|03|04</ID>
+                  <Name>Couvre-joint de dilatation intérieur en aluminium</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|03|05</ID>
+                  <Name>Couvre-joint de dilatation intérieur en bois</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>10|04|00</ID>
+              <Name>Descente d'eau pluviale</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>10|04|01</ID>
+                  <Name>Conduite de descente d'eau pluviale Ø 110</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|04|02</ID>
+                  <Name>Conduite de descente d'eau pluviale Ø 125</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|04|05</ID>
+                  <Name>Pipette d'évacuation Ø 50</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|04|10</ID>
+                  <Name>Moignon en plomb y compris crapaudine en plomb</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|04|11</ID>
+                  <Name>Moignon en PVC y compris crapaudine en PVC</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>10|05|00</ID>
+              <Name>SIgnalisation</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>10|05|01</ID>
+                  <Name>Enseigne extérieure principale</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|05|02</ID>
+                  <Name>Enseigne extérieure pour porte d'entrée</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>10|05|03</ID>
+                  <Name>Plaque d'identification de compartiments et bureaux</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>10|91|00</ID>
+              <Name>Ferme porte hydrolique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>10|97|00</ID>
+              <Name>Niche pour compteur STEG</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>10|98|00</ID>
+              <Name>Niche pour compteur SONEDE</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>10|99|00</ID>
+              <Name>Niche pour compteur GAZ</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>11|00|00</ID>
+          <Name>MENUISERIE EN BOIS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>11|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|01|00</ID>
+              <Name>Pose et scellement de pré-cadres</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>11|01|01</ID>
+                  <Name>Pose et scellement de pré-cadres pour porte battante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>11|01|02</ID>
+                  <Name>Pose et scellement de pré-cadres pour porte coulissante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>11|02|00</ID>
+              <Name>Porte battante extérieure</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|03|00</ID>
+              <Name>Porte battante intérieure</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|05|00</ID>
+              <Name>Porte coulissante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|06|00</ID>
+              <Name>Porte vas et vient</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|07|00</ID>
+              <Name>Porte spéciale</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|08|00</ID>
+              <Name>Encadrement en bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|09|00</ID>
+              <Name>Fenêtre Battante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|10|00</ID>
+              <Name>Fenêtre coulissante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|11|00</ID>
+              <Name>Placards et trappes</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|20|00</ID>
+              <Name>Etagères en MDF</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|21|00</ID>
+              <Name>Cimaise</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|31|00</ID>
+              <Name>Casier pour salle de profs en MDF stratifié</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>11|41|00</ID>
+              <Name>Casier pour élèves en MDF stratifié</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>12|00|00</ID>
+          <Name>MENUISERIE EN ALUMINIUM</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>12|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|01|00</ID>
+              <Name>Porte battante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|02|00</ID>
+              <Name>Porte battante pour pièces humides</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|03|00</ID>
+              <Name>Porte battante pour PMR avec serrure antipanique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|11|00</ID>
+              <Name>Porte coulissante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|21|00</ID>
+              <Name>Porte garage basculante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|22|00</ID>
+              <Name>Porte garage roulante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|23|00</ID>
+              <Name>Porte garage sectionnelle</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|29|00</ID>
+              <Name>Porte Roulante pour sanitaire des élèves</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|30|00</ID>
+              <Name>porte accordéon</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|31|00</ID>
+              <Name>Fenêtre battante 1 vanteau</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|32|00</ID>
+              <Name>Fenêtre battante 2 vanteaux</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|33|00</ID>
+              <Name>Fenêtre battante avec imposte inférieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|34|00</ID>
+              <Name>Fenêtre battante avec imposte supérieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|35|00</ID>
+              <Name>Fenêtre battante avec imposte supérieur / inférieur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|40|00</ID>
+              <Name>Fenêtre basculante</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|41|00</ID>
+              <Name>Fenêtre basculante avec imposte fixe</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|46|00</ID>
+              <Name>Fenêtre coulissante 2 vanteaux</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|49|00</ID>
+              <Name>Fenêtre coulissante avec imposte</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|50|00</ID>
+              <Name>Fenêtre fixe</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|60|00</ID>
+              <Name>Portes placard</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|61|00</ID>
+              <Name>Trappe de visite de gaine</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|65|00</ID>
+              <Name>Grille de désenfumage</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|78|00</ID>
+              <Name>Caisson préfabriqué</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>12|78|01</ID>
+                  <Name>Caisson préfabriqué - 35cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|78|02</ID>
+                  <Name>Caisson préfabriqué - 35cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|78|03</ID>
+                  <Name>Caisson préfabriqué - 35cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|78|04</ID>
+                  <Name>Caisson préfabriqué - 35cm</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>12|79|00</ID>
+              <Name>Volet roulant</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>12|79|01</ID>
+                  <Name>Volet roulant en aluminium extrudé</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|79|02</ID>
+                  <Name>Volet roulant en aluminium injecté</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|79|03</ID>
+                  <Name>Volet roulant en aluminium PVC</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>12|80|00</ID>
+              <Name>Garde corps</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>12|80|01</ID>
+                  <Name>Main courante en Inox</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|80|02</ID>
+                  <Name>Garde corps en Inox</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|80|03</ID>
+                  <Name>Garde corps vitré</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+            <Item>
+              <ID>12|89|00</ID>
+              <Name>Brises soleil</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>12|90|00</ID>
+              <Name>Murs rideaux</Name>
+              <Description/>
+              <Children>
+                <Item>
+                  <ID>12|90|01</ID>
+                  <Name>Cadre de mur rideau</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|02</ID>
+                  <Name>Panneau vitré</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|03</ID>
+                  <Name>Porte battante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|04</ID>
+                  <Name>Porte coulissante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|05</ID>
+                  <Name>Porte tambour</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|06</ID>
+                  <Name>Fenêtre basculante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|07</ID>
+                  <Name>Fenêtre double</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+                <Item>
+                  <ID>12|90|08</ID>
+                  <Name>Fenêtre coulissante</Name>
+                  <Description/>
+                  <Children/>
+                </Item>
+              </Children>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>13|00|00</ID>
+          <Name>MENUISERIE MÉTALLIQUE -FERRONNERIE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>13|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|02|00</ID>
+              <Name>Porte battante en fer frogé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|10|00</ID>
+              <Name>Porte coulissante en fer frogé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|05|00</ID>
+              <Name>Fer forgé pour fenêtre</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|08|00</ID>
+              <Name>Main courante métallique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|06|00</ID>
+              <Name>Garde corps métallique</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|01|00</ID>
+              <Name>Fer forgé pour clôture</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|07|00</ID>
+              <Name>Brise soleil métalliques</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|09|00</ID>
+              <Name>Ouvrage divers en fer forgé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>13|11|00</ID>
+              <Name>Panneau en tôle métallique perforée</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>14|00|00</ID>
+          <Name>PEINTURE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>14|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|01|00</ID>
+              <Name>Peinture extérieure à l’eau en trois couches</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|11|00</ID>
+              <Name>Peinture intérieure à l’eau en trois couches</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|12|00</ID>
+              <Name>Peinture intérieure à l’eau en trois couches avec mastic</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|13|00</ID>
+              <Name>Peinture laqué avec mastic</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|14|00</ID>
+              <Name>Peinture à l’eau en trois couches sur faux plafond</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|15|00</ID>
+              <Name>Peinture décorée en stuco avec mastic</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|16|00</ID>
+              <Name>Peinture à l’eau antibactérienne spéciale</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|17|00</ID>
+              <Name>Peinture laquée sur menuiserie en bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|21|00</ID>
+              <Name>Peinture à l’huile sur menuiserie en bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|23|00</ID>
+              <Name>Peinture laquée sur fenêtre vitrée en bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|24|00</ID>
+              <Name>Peinture laquée sur Persienne en bois</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|31|00</ID>
+              <Name>Peinture laquée sur ouvrage métalliques</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|41|00</ID>
+              <Name>Peinture laquée sur tuyauterie en PVC</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|51|00</ID>
+              <Name>Peinture en graphites</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|61|00</ID>
+              <Name>Peinture Epoxy pour terrain de sport</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>14|62|00</ID>
+              <Name>Peinture Epoxy sur couverture caniveau en acier galvanisé</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>15|00|00</ID>
+          <Name>AMÉNAGEMENT EXTÉRIEUR</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>15|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|11|00</ID>
+              <Name>Bac à fleur avec banquette pour cour</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|12|00</ID>
+              <Name>Bac à fleur pour cour</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|13|00</ID>
+              <Name>Banquette pour cour</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|14|00</ID>
+              <Name>Terre végétale</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|15|00</ID>
+              <Name>Arbres et végétations y compris engrais</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|17|00</ID>
+              <Name>Panier de basket ball</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|18|00</ID>
+              <Name>Filet de voley ball</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|19|00</ID>
+              <Name>Cage de Handball</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|81|00</ID>
+              <Name>Enrobé bitumineux</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|82|00</ID>
+              <Name>Galets</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|83|00</ID>
+              <Name>Gazon</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|84|00</ID>
+              <Name>Gravier</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|85|00</ID>
+              <Name>Sable</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|96|00</ID>
+              <Name>Hampe de drapeau</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>15|95|00</ID>
+              <Name>Mât de drapeau</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>16|00|00</ID>
+          <Name>AMÉNAGEMENT INTÉRIEUR</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>16|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|10|00</ID>
+              <Name>Agencement</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|20|00</ID>
+              <Name>Ameublement</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|30|00</ID>
+              <Name>Porte carte</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|40|00</ID>
+              <Name>Patere murale</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|50|00</ID>
+              <Name>Cuisine préfabriquée en MDF</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>16|60|00</ID>
+              <Name>Store rideaux en tissue</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>17|00|00</ID>
+          <Name>EQUIPEMENTS</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>17|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>17|01|00</ID>
+              <Name>Ascenseur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>17|99|00</ID>
+              <Name>LOT Équipements</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>18|01|00</ID>
+              <Name>VItrage supersilver 6 mm</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>18|02|00</ID>
+              <Name>Vitrage sécurite 6 mm</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>18|03|00</ID>
+              <Name>Vitrage sécurite 8 mm</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>18|04|00</ID>
+              <Name>Vitrage feuilleté 3x6 mm</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>18|20|00</ID>
+              <Name>Plexiglass</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>19|00|00</ID>
+          <Name>VRD</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>19|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>19|99|00</ID>
+              <Name>LOT VRD</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>20|00|00</ID>
+          <Name>ELECTRICITÉ</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>20|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>20|99|00</ID>
+              <Name>LOT Electricité</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>21|00|00</ID>
+          <Name>SÉCURITÉ INCENDIE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>21|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>21|99|00</ID>
+              <Name>LOT Sécurité incendie</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>22|00|00</ID>
+          <Name>FLUIDE</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>22|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>22|99|00</ID>
+              <Name>LOT Fluide</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+        <Item>
+          <ID>23|00|00</ID>
+          <Name>CONDITIONNEMENT</Name>
+          <Description/>
+          <Children>
+            <Item>
+              <ID>23|00|00</ID>
+              <Name>Spécifications générales</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>23|10|00</ID>
+              <Name>Radiateur</Name>
+              <Description/>
+              <Children/>
+            </Item>
+            <Item>
+              <ID>23|99|00</ID>
+              <Name>LOT Conditionnement</Name>
+              <Description/>
+              <Children/>
+            </Item>
+          </Children>
+        </Item>
+      </Items>
+    </System>
+  </Classification>
+</BuildingInformation>
